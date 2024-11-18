@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "scrape-data": "node data_scrapper.js",
-    "question-llm": "node llm_questions.js",
+    "question-llm": "node llm_questions.js"
   },
   "author": "",
   "license": "ISC",
