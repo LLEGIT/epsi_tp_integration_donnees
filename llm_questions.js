@@ -80,8 +80,8 @@ async function processCsv() {
                 if (rowsProcessed > MAX_ROWS) {
                     console.log('\n--- Evaluation Complete ---');
                     console.log(`Total Questions: ${MAX_ROWS}`);
-                    console.log(`Correct percentage: ${(correctCount/MAX_ROWS) * 100}%`);
-                    return;
+                    console.log(`Correct percentage: ${getCorrectPercentage(correctCount)}%`);
+                    process.exit();
                 }
 
                 const { type, question, correct_answer, incorrect_answers } = row;
@@ -147,6 +147,10 @@ function formatLlmAnswer(apiAnswer) {
     }
 
     return apiAnswer.trim().toLowerCase();
+}
+
+function getCorrectPercentage(correctCount) {
+    return ((correctCount/MAX_ROWS) * 100).toFixed(2);
 }
 
 (async function main() {
