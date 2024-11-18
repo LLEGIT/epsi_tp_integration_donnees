@@ -1,0 +1,591 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "What part of the brain takes its name from the Greek for seahorse?",
+      "correct_answer": "Hippocampus",
+      "incorrect_answers": [
+        "Cerebellum",
+        "Thalamus",
+        "Amygdala"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "What is the first weapon you acquire in Half-Life?",
+      "correct_answer": "A crowbar",
+      "incorrect_answers": [
+        "A pistol",
+        "The H.E.V suit",
+        "Your fists"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "From the Meme Culture, which Mario game immerged &quot;Weegee&quot;?",
+      "correct_answer": "Mario is Missing! MS-DOS Version ",
+      "incorrect_answers": [
+        "Mario is Missing! SNES Version",
+        "Mario is Missing! NES Version",
+        "Mario is Missing! MSX Version"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "When did the last episode of &quot;Futurama&quot; air before returning in 2023?",
+      "correct_answer": "September 4, 2013",
+      "incorrect_answers": [
+        "December 25, 2010",
+        "March 28, 1999",
+        "November 4, 2021"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Art",
+      "question": "Which of these is not an additional variation of the color purple?",
+      "correct_answer": "Kobicha",
+      "incorrect_answers": [
+        "Byzantium",
+        "Pomp and Power",
+        "Palatinate"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "In the movie &quot;Cast Away&quot; the main protagonist&#039;s best friend while on the island is named",
+      "correct_answer": "Wilson",
+      "incorrect_answers": [
+        "Carson",
+        "Jackson",
+        "Willy"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Which of these bands was a featuring artist in Compton rapper Kendrick Lamar&#039;s 2017 album, &quot;DAMN.&quot;?",
+      "correct_answer": "U2",
+      "incorrect_answers": [
+        "Radiohead",
+        "Coldplay",
+        "Bon Jovi"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "On which computer hardware device is the BIOS chip located?",
+      "correct_answer": "Motherboard",
+      "incorrect_answers": [
+        "Hard Disk Drive",
+        "Central Processing Unit",
+        "Graphics Processing Unit"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+      "correct_answer": "Micronesia",
+      "incorrect_answers": [
+        "Fiji",
+        "Tuvalu",
+        "Marshall Islands"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Books",
+      "question": "Which of the following was the author of &quot;Username Evie&quot;?",
+      "correct_answer": "Joe Sugg",
+      "incorrect_answers": [
+        "Zoe Sugg",
+        "Joe Weller",
+        "Alfie Deyes"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In the Half-Life franchise, what is the real name of the &quot;gravity gun&quot;?",
+      "correct_answer": "Zero-Point Energy Field Manipulator",
+      "incorrect_answers": [
+        "Universal Gravity Manipulation Device",
+        "Isaac Newton&#039;s Theory Disprover",
+        "Quantum Energy Displacement Modifier"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "What is the name of the largest planet in Kerbal Space Program?",
+      "correct_answer": "Jool",
+      "incorrect_answers": [
+        "Eeloo",
+        "Kerbol",
+        "Minmus"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "List the following Iranic empires in chronological order:",
+      "correct_answer": "Median, Achaemenid, Parthian, Sassanid",
+      "incorrect_answers": [
+        "Median, Achaemenid, Sassanid, Parthian",
+        "Achaemenid, Median, Parthian, Sassanid",
+        "Achaemenid, Median, Sassanid, Parthian"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "Which Game Development company made No Man&#039;s Sky?",
+      "correct_answer": "Hello Games",
+      "incorrect_answers": [
+        "Dovetail Games",
+        "Valve",
+        "Blizzard Entertainment"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Film",
+      "question": "What was the wifi password given to Stephen Strange in Doctor Strange?",
+      "correct_answer": "Shambala",
+      "incorrect_answers": [
+        "Peace",
+        "Ancient",
+        "Chakra"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Who is the lead singer of the band Coldplay?",
+      "correct_answer": "Chris Martin",
+      "incorrect_answers": [
+        "Chris Isaak",
+        "Chris Wallace",
+        "Chris Connelly"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Which of these Starbound races has a Wild West culture?",
+      "correct_answer": "Novakid",
+      "incorrect_answers": [
+        "Avian",
+        "Human",
+        "Hylotl"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "There are 86400 seconds in a day.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In &quot;Undertale&quot;, the main character of the game is Sans.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "American rapper Dr. Dre actually has a Ph.D. doctorate.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Pluto is a planet.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "On which aircraft carrier did the Doolitte Raid launch from on April 18, 1942 during World War II?",
+      "correct_answer": "USS Hornet",
+      "incorrect_answers": [
+        "USS Enterprise",
+        "USS Lexington",
+        "USS Saratoga"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Animals",
+      "question": "Which of these is a colony of polyps and not a jellyfish?",
+      "correct_answer": "Portuguese Man-of-War",
+      "incorrect_answers": [
+        "Sea Wasp",
+        "Irukandji",
+        "Sea Nettle"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "Which country hosted the 2022 FIFA World Cup?",
+      "correct_answer": "Qatar",
+      "incorrect_answers": [
+        "USA",
+        "Japan",
+        "Switzerland"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Comics",
+      "question": "In Calvin and Hobbes, what is the name of Susie&#039;s stuffed rabbit?",
+      "correct_answer": "Mr. Bun",
+      "incorrect_answers": [
+        "Mr. Bunbun",
+        "Mr. Rabbit",
+        "Mr. Hoppy"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?",
+      "correct_answer": "M3",
+      "incorrect_answers": [
+        "Colt 9mm",
+        "Thompson",
+        "MAC-10"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "The Axiom of Preventive Medicine states that people with ___ risk for a disease should be screened and we should treat ___ of those people.",
+      "correct_answer": "low, all",
+      "incorrect_answers": [
+        "low, some",
+        "high, all",
+        "high, some"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Mathematics",
+      "question": "How many zeptometres are inside one femtometre?",
+      "correct_answer": "1,000,000",
+      "incorrect_answers": [
+        "10",
+        "1,000,000,000",
+        "1000"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "What is considered the rarist form of color blindness?",
+      "correct_answer": "Blue",
+      "incorrect_answers": [
+        "Red",
+        "Green",
+        "Purple"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Animals",
+      "question": "Hippocampus is the Latin name for which marine creature?",
+      "correct_answer": "Seahorse",
+      "incorrect_answers": [
+        "Dolphin",
+        "Whale",
+        "Octopus"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Animals",
+      "question": "The K\u0101k\u0101p\u014d is a large, flightless, nocturnal parrot native to which country?",
+      "correct_answer": "New Zealand",
+      "incorrect_answers": [
+        "South Africa",
+        "Australia",
+        "Madagascar"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "What was Raekwon the Chefs debut solo album?",
+      "correct_answer": "Only Built 4 Cuban Linx",
+      "incorrect_answers": [
+        "Shaolin vs Wu-Tang",
+        "The Wild",
+        "The Lex Diamond Story"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "The Windows ME operating system was released in the year 2000.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "On what medium was &quot;Clannad&quot; first created?",
+      "correct_answer": "Visual novel",
+      "incorrect_answers": [
+        "Anime",
+        "Manga",
+        "Light novel"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science &amp; Nature",
+      "question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
+      "correct_answer": "Carbon",
+      "incorrect_answers": [
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Gadgets",
+      "question": "Which of the following is the standard THX subwoofer crossover frequency?",
+      "correct_answer": "80 Hz",
+      "incorrect_answers": [
+        "70 Hz",
+        "90 Hz",
+        "100 Hz"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Which of these is the name of a song by Tears for Fears?",
+      "correct_answer": "Shout",
+      "incorrect_answers": [
+        "Scream",
+        "Yell",
+        "Shriek"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "In which year did the Tokyo Subway Sarin Attack occur?",
+      "correct_answer": "1995",
+      "incorrect_answers": [
+        "2001",
+        "2011",
+        "1991"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "category": "Mythology",
+      "question": "The Roman god &quot;Jupiter&quot; was first known as &quot;Zeus&quot; to the Greeks.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "What is the capital city of Bermuda?",
+      "correct_answer": "Hamilton",
+      "incorrect_answers": [
+        "Santo Dominigo",
+        "San Juan",
+        "Havana"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "Which Sanrio character was introduced in 1996?",
+      "correct_answer": "Pompompurin",
+      "incorrect_answers": [
+        "My Melody",
+        "Badtz-Maru",
+        "Kerropi"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In the Kingdom Heart series who provides the english voice for Master Eraqus?",
+      "correct_answer": "Mark Hamill",
+      "incorrect_answers": [
+        "Jason Dohring",
+        "Jesse McCartney",
+        "Haley Joel Osment"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Which member of &quot;The Beatles&quot; narrated episodes of &quot;Thomas the Tank Engine&quot;?",
+      "correct_answer": "Ringo Starr",
+      "incorrect_answers": [
+        "George Harrison",
+        "John Lennon",
+        "Paul McCartney"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "In what year did the Berlin Wall fall?",
+      "correct_answer": "1989",
+      "incorrect_answers": [
+        "1987",
+        "1991",
+        "1993"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Board Games",
+      "question": "The card game &quot;Munchkin&quot; won the 2001 Origins Award for Best Traditional Card Game.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Television",
+      "question": "In the original Doctor Who series (1963), fourth doctor Tom Baker&#039;s scarf was how long?",
+      "correct_answer": "7 Meters",
+      "incorrect_answers": [
+        "10 Meters",
+        "2 Meters",
+        "5 Meters"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "What is Dipper&#039;s real name from &quot;Gravity Falls&quot;?",
+      "correct_answer": "Mason Pines",
+      "incorrect_answers": [
+        "Mable Pines",
+        "Jason Pines",
+        "Mark Pines"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Geography",
+      "question": "What is the name of rocky region that spans most of eastern Canada?",
+      "correct_answer": "Canadian Shield",
+      "incorrect_answers": [
+        "Rocky Mountains",
+        "Appalachian Mountains",
+        "Himalayas"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In Night In The Woods, what is Mae Borowski mother&#039;s name?",
+      "correct_answer": "Candy",
+      "incorrect_answers": [
+        "Jenny",
+        "Margaret",
+        "Kate"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Video Games",
+      "question": "In the original DOOM (1993) which of the following is NOT a cheat code?",
+      "correct_answer": "IDCLIP",
+      "incorrect_answers": [
+        "IDFA",
+        "IDDQD",
+        "IDSPISPOPD"
+      ]
+    }
+  ]
+}
